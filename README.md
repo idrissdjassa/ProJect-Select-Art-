@@ -96,7 +96,7 @@ Community DevOps est à votre entière disposition.
 
 Me : DevOps
 - Site Web: https://ander-i-a.com , https://cmgi-stuttgart-und-co.com, https://brad-lincoln.com , file:///Users/andersondjassa/Downloads/malefashion-master/index.html,
-- WhatsApps: 
+- LinkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 - Email: idrissdjassa15@yahoo.com / djassaanderson001@gmail.com
 
 ## 🚀 Aller Plus Loin
