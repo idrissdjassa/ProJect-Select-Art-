@@ -1,4 +1,4 @@
-# 🎧 ProJect Clone  Select Art – E‑Commerce Artistique Intelligent
+# 🎧 ProJect Select Art – E‑Commerce Artistique Intelligent
 
 Bienvenue sur Select Art, un projet conçu pour allier art, technologie et commerce en ligne, tout en explorant les bonnes pratiques du développement web front‑end et back‑end. Ce site vise à offrir une expérience immersive aux amateurs d’art, leur permettant d’acheter, découvrir et interagir avec des œuvres tout en bénéficiant des recommandations intelligentes fournies par l’IA intégrée.
 
