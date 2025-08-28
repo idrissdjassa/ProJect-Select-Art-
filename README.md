@@ -8,7 +8,7 @@ L’objectif de Select Art est de reproduire l’atmosphère d’une galerie d�
 
 
 
-## 🛠 Technologies a utiliser
+## 🛠 Technologies utiliser
 
 - **HTML5 / CSS3 / JavaScript** : Structure  de base 
 - **Frameworks** : React (optionnel), Bootstrap.
