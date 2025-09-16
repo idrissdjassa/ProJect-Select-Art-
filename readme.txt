@@ -1,6 +1,7 @@
 # 🎨 ProJect Select Art
 
 Bienvenue sur SELECT ART, une vitrine numérique conçue pour présenter et valoriser des projets artistiques (peintures, tableaux, créations visuelles) tout en explorant les principes du développement web front-end et back-end.
+
 ## 📜 Description du Projet
 
 Ce projet a pour but de créer une plateforme d’exposition artistique. Elle permettra aux artistes de mettre en avant leurs œuvres, et aux visiteurs de découvrir, parcourir et interagir avec ces créations dans un cadre moderne et intuitif.
